@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+public
+dist
+main.js
+/src/utils/*.js
+/node_modules/

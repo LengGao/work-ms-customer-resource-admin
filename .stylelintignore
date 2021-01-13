@@ -1,0 +1,15 @@
+/build/
+/config/
+/dist/
+/src/styles/
+/test/unit/coverage/
+/src/router/
+/src/store/
+/src/common/
+/src/layout/
+.postcssrc.js
+stylelint.config.js
+
+*.js
+*.json
+*.md
